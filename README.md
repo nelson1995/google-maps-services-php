@@ -128,7 +128,7 @@ use yidas\googleMaps\Client;
 
 ---
 
-USGAE
+USAGE
 -----
 
 Before using any Google Maps Services, first you need to create a Client with configuration, then use the client to access Google Maps Services.
